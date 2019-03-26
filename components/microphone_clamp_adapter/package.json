@@ -1,0 +1,8 @@
+{
+  "name": "microphone_clamp_adapter",
+  "version": "1.0.0",
+  "description": "Sliderule DOF component.",
+  "license": "(CERN-OHL-1.2 AND CC-BY-SA-3.0)",
+  "dependencies": {
+  }
+}

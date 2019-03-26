@@ -1,0 +1,8 @@
+{
+  "name": "webcam_swivel_mount_bracket",
+  "version": "1.0.0",
+  "description": "Sliderule DOF component.",
+  "license": "(CERN-OHL-1.2 AND CC-BY-SA-3.0)",
+  "dependencies": {
+  }
+}
